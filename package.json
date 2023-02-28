@@ -1,0 +1,22 @@
+{
+  "name": "html-engine",
+  "version": "0.0.1",
+  "description": "a motor of rendering html based in javascript vanilla",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frank-styding/HTMLEngine.git"
+  },
+  "keywords": [
+    "HTML"
+  ],
+  "author": "Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frank-styding/HTMLEngine/issues"
+  },
+  "homepage": "https://github.com/Frank-styding/HTMLEngine#readme"
+}
